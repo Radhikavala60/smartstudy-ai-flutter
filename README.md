@@ -17,3 +17,11 @@ https://openlibrary.org/subjects/computer_science.json
 ## Output Description
 The app displays computer science books in a grid format.
 Each card shows the book title and first published year.
+
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home_screen.png)
+
+### API Data Loaded
+![API Data](screenshots/api_data_view.png)
